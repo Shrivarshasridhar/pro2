@@ -1,0 +1,25 @@
+body {
+    background-color: #f8f9fa;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .navbar-brand {
+    font-size: 1.25rem;
+  }
+  
+  .sidebar {
+    min-width: 200px;
+  }
+  
+  .canvas {
+    background-color: #f4f6f9;
+  }
+  
+  button {
+    transition: all 0.3s ease-in-out;
+  }
+  
+  button:hover {
+    transform: scale(1.05);
+  }
+  
