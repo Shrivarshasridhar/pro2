@@ -14,7 +14,7 @@ const Sidebar = ({ addElement }) => {
   const handleVideoAdd = () => {
     if (videoURL) {
       addElement({ type: 'video', src: videoURL });
-      setVideoURL(''); // Clear the input
+      setVideoURL('');
     }
   };
 

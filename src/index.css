@@ -1,7 +1,7 @@
-/* Global Body Styling */
+
 body {
   font-family: 'Poppins', sans-serif;
-  background: linear-gradient(135deg, #e8f1f2, #ffffff); /* Subtle gradient */
+  background: linear-gradient(135deg, #e8f1f2, #ffffff); 
   margin: 0;
   padding: 0;
   color: #333333;
@@ -16,7 +16,7 @@ a:hover {
   text-decoration: underline;
 }
 
-/* Navbar Styling */
+
 .navbar {
   box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
 }
@@ -31,7 +31,7 @@ a:hover {
   border-radius: 5px;
 }
 
-/* Button Styles */
+
 button {
   transition: all 0.3s ease;
 }
@@ -41,7 +41,7 @@ button:hover {
   box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
 }
 
-/* Utility Classes */
+
 .container {
   max-width: 1200px;
   margin: 0 auto;
@@ -55,7 +55,7 @@ button:hover {
   background-color: #ffffff !important;
 }
 
-/* Animation Preview */
+
 .animation-preview {
   position: relative;
   padding: 20px;
